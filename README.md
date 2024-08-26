@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm SONG UIJUNG</h1>
-<h3 align="center">개발자 교육생</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
